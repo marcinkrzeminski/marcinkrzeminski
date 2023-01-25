@@ -1,8 +1,8 @@
 👋 Hi, my name is Marcin
 ---
 - 🎓 Never stop learning attitude.
-- 🌱 I’m currently learning Next.js, React
-- 📫 Drop me a line: marcin@krzeminski.net
+- 🌱 Currently learning Next.js, React
+- 📫 marcin@krzeminski.net
 
 ---
 
