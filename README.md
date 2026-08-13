@@ -1,8 +1,9 @@
-👋 Hi, my name is Marcin
+👋 Heyo, my name is Marcin
+
 ---
+- ⏱️ More than 2 decades in the field
 - 🎓 Never stop learning attitude.
 - 🌱 Currently diving into Hydrogen, Shopify, Next.js, React, Typescript
-- 📫 marcin@krzeminski.net
 
 ---
 
